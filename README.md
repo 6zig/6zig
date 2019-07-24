@@ -4,6 +4,7 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/6zig/6zig/total.svg)](https://github.com/6zig/6zig/releases/latest)
 [![GitHub Version](https://img.shields.io/github/release/6zig/6zig.svg)](https://github.com/6zig/6zig/releases/latest)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/6zig/6zig.svg)](https://github.com/6zig/6zig/issues/open)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/6zig/6zig.svg)](https://github.com/6zig/6zig/pulls)
 [![GitHub License](https://img.shields.io/github/license/6zig/6zig.svg)](https://github.com/6zig/6zig/LICENSE)
 [![Minecraft Version](https://img.shields.io/badge/minecraft%20versions-1.13.1--1.14.4-blue.svg)]()
 
