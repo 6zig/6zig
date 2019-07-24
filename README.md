@@ -4,6 +4,8 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/6zig/6zig/total.svg)](https://github.com/6zig/6zig/releases/latest)
 [![GitHub Version](https://img.shields.io/github/release/6zig/6zig.svg)](https://github.com/6zig/6zig/releases/latest)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/6zig/6zig.svg)](https://github.com/6zig/6zig/issues/open)
+[![GitHub License](https://img.shields.io/github/license/6zig/6zig.svg)](https://github.com/6zig/6zig/LICENSE)
+[![Minecraft Version](https://img.shields.io/badge/minecraft%20versions-1.13.1--1.14.4-success.svg)]
 
 
 6zig is a fork of the now discontinued 5zig, intended for versions 1.13.1+. There are a couple differences between 6zig and 5zig, however the main purpose of 6zig is to continue updating the 5zig mod for versions 1.13, 1.14, etc.
