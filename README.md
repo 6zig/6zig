@@ -2,7 +2,7 @@
 [![Discord](https://discordapp.com/api/guilds/277976788163100672/embed.png?style=shield)](https://discord.gg/uwkA8WQ)
 [![Build Status](https://travis-ci.org/5zig-reborn/The-5zig-Mod.svg?branch=master)](https://travis-ci.org/6zig/6zig)
 [![GitHub All Releases](https://img.shields.io/github/downloads/6zig/6zig/total.svg)](https://github.com/6zig/6zig/releases/latest)
-[![GitHub Version](https://img.shields.io/github/release/6zig/6zig.svg](https://github.com/6zig/6zig/releases/latest)
+[![GitHub Version](https://img.shields.io/github/release/6zig/6zig.svg)](https://github.com/6zig/6zig/releases/latest)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/6zig/6zig.svg)](https://github.com/6zig/6zig/issues/open)
 
 
